@@ -1,4 +1,4 @@
-<a href="https://pikachusite.vercel.app/">Site</a>  •  <a href="https://x.com/ThePikachuDev">x</a>  
+<a href="https://tasin-beta.vercel.app/">Portfolio</a>  •  <a href="https://x.com/ThePikachuDev">Website</a>  
 
 
 <details>
